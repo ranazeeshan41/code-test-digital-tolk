@@ -32,8 +32,7 @@ Test Cases:
 
 To write test cases in PHP, you need to install PHPUnit, which is a testing framework for PHP. You also need to set up some configurations for PHPUnit to work effectively.
 
-Due to time shortage, I am writing a few test cases for an example
-
-Please note that these are just example test cases and may need to be adjusted based on the actual implementation of the "BookingController" class and the "BookingRepository" class. 
+Due to time shortage, I am writing a test case for user create or update method for an example 
 
 Thank You
+
